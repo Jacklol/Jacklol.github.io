@@ -1,0 +1,53 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:"$Sreact.suspense"
+:HL["/_next/static/chunks/2314ptv9oo-2-.css","style"]
+:HL["/favicon-96x96.png","image"]
+:HL["/_next/static/chunks/1yhdzmxn4r1hw.css","style"]
+6:X
+9:X
+9:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержанию"}],["$","header",null,{"className":"EmNI4q_header","children":[["$","a",null,{"className":"EmNI4q_brand","href":"/","children":[["$","img",null,{"src":"/favicon-96x96.png","width":34,"height":34,"alt":"","decoding":"async"}],"EarnAtlas"]}],["$","nav",null,{"aria-label":"Главное меню","children":[["$","a",null,{"href":"/","children":"Каталог заработка"}],["$","a",null,{"href":"/blog/","aria-current":"page","children":"Блог"}]]}]]}],["$","main",null,{"id":"main","className":"EmNI4q_main EmNI4q_withAside","children":[["$","nav",null,{"className":"EmNI4q_breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],[["$","span","/blog/",{"children":[["$","span",null,{"aria-hidden":"true","children":"/ "}],["$","a",null,{"href":"/blog/","children":"Блог"}]]}]],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Инструкции"}]]}],["$","div",null,{"className":"EmNI4q_columns","children":[["$","article",null,{"className":"EmNI4q_content","children":[["$","h1",null,{"children":"Инструкции"}],[["$","p",null,{"children":"Практические шаги: от выбора способа подработки до своего продукта."}],["$","nav",null,{"className":"qYX-oq_categories","aria-label":"Рубрики блога","children":[["$","a",null,{"href":"/blog/","children":"Все материалы"}],[["$","a","reviews",{"href":"/blog/rubrika/razbory/","children":"Разборы платформ"}],"$Lf","$L10"]]}],"$L11","$L12"]]}],"$L13"]}]]}]],["$L14","$L15","$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$6"}}]]
+c:[["children",{"s":{"n":"category","t":"d","k":"instrukcii","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@d","v":"$9","s":"$6"},"c":"$Qe"}]]
+a:[["children",{"s":"rubrika","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"blog","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2314ptv9oo-2-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://earnatlas.site/#website\",\"name\":\"EarnAtlas\",\"alternateName\":[\"Earn Atlas\",\"earnatlas.site\"],\"url\":\"https://earnatlas.site/\",\"inLanguage\":\"ru\",\"description\":\"EarnAtlas — каталог способов заработка в интернете. Сравните платные опросы, приложения, задания и фриланс: условия, выплаты и ограничения по странам.\"}"}}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержанию"}],["$","header",null,{"className":"EmNI4q_header","children":[["$","a",null,{"className":"EmNI4q_brand","href":"/","children":[["$","img",null,{"src":"/favicon-96x96.png","width":34,"height":34,"alt":"","decoding":"async"}],"EarnAtlas"]}],["$","nav",null,{"aria-label":"Главное меню","children":[["$","a",null,{"href":"/","children":"Каталог заработка"}],["$","a",null,{"href":"/blog/","children":"Блог"}]]}]]}],["$","main",null,{"id":"main","className":"EmNI4q_main ","children":[["$","nav",null,{"className":"EmNI4q_breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],[],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Страница не найдена"}]]}],["$","div",null,{"className":"EmNI4q_columns","children":[["$","article",null,{"className":"EmNI4q_content","children":[["$","h1",null,{"children":"Страница не найдена"}],[["$","p",null,{"children":"Возможно, адрес изменился или подборка ещё не создана."}],["$","p",null,{"children":[["$","a",null,{"href":"/","children":"Открыть каталог EarnAtlas"}]," или посмотреть ",["$","a",null,{"href":"/oprosy-za-dengi/","children":"платные опросы"}],"."]}]]]}],"$undefined"]}]]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1yhdzmxn4r1hw.css","precedence":"next"}]]]}],["$","footer",null,{"className":"site-footer","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],["$","nav",null,{"aria-label":"Информация о сайте","children":[["$","a",null,{"href":"/blog/","children":"Блог"}],["$","a",null,{"href":"/o-proekte/","children":"О проекте"}],["$","a",null,{"href":"/zarabotok-v-internete-2027/","children":"Заработок в 2027 году"}],["$","a",null,{"href":"/kak-vybiraem/","children":"Методика и партнёрские ссылки"}],["$","a",null,{"href":"/sitemap.xml","children":"Карта сайта"}]]}]]}]]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Инструкции о заработке | EarnAtlas"}],["$","meta","1",{"name":"description","content":"Практические шаги: от выбора способа подработки до своего продукта."}],["$","meta","2",{"name":"application-name","content":"EarnAtlas"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://earnatlas.site/blog/rubrika/instrukcii/"}],["$","meta","6",{"property":"og:title","content":"Инструкции о заработке | EarnAtlas"}],["$","meta","7",{"property":"og:description","content":"Практические шаги: от выбора способа подработки до своего продукта."}],["$","meta","8",{"property":"og:url","content":"https://earnatlas.site/blog/rubrika/instrukcii/"}],["$","meta","9",{"property":"og:site_name","content":"EarnAtlas"}],["$","meta","10",{"property":"og:locale","content":"ru_RU"}],["$","meta","11",{"property":"og:image","content":"https://earnatlas.site/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"EarnAtlas — каталог способов заработка"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}],null]}],null]}],"p":"$@26","v":null,"s":"$6"}},"a":"$@27","u":"$@28","b":"b5zrureioUaiIXnNp1kUw"}
+29:"/_next/static/chunks/2e2prb7gt39os.js"
+2a:I[88457,["$2","$29"],"AdRail"]
+2b:I[97367,["$2"],"OutletBoundary"]
+2d:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/0tgf_jh1zm4mr.css","style"]
+f:["$","a","guides",{"href":"/blog/rubrika/instrukcii/","aria-current":"page","children":"Инструкции"}]
+10:["$","a","news",{"href":"/blog/rubrika/novosti/","children":"Новости"}]
+11:["$","ul",null,{"className":"qYX-oq_entries","children":[["$","li","/zarabotok-v-internete-2027/",{"children":[["$","div",null,{"className":"qYX-oq_meta","children":[["$","span",null,{"children":"Инструкции"}],["$","time",null,{"dateTime":"2026-10-28","children":"28 октября 2026 г."}],["$","span",null,{"children":["~",6," мин"]}]]}],["$","h2",null,{"children":["$","a",null,{"href":"/zarabotok-v-internete-2027/","children":"Заработок в интернете в 2027 году"}]}],["$","p",null,{"children":"Как выбрать заработок в интернете на 2027 год: опросы, задания, приложения, фриланс и партнёрские программы. Варианты без вложений, с телефона и для студентов."}],["$","a",null,{"className":"qYX-oq_readMore","href":"/zarabotok-v-internete-2027/","children":"Читать материал →"}]]}]]}]
+12:["$","p",null,{"className":"qYX-oq_note","children":["Проверяем факты по открытым источникам и указываем дату проверки. Редакционные рекомендации отделяем от условий платформ. ",["$","a",null,{"href":"/blog/feed.xml","children":"Подписаться через RSS"}],"."]}]
+13:["$","$L2a",null,{}]
+14:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1yhdzmxn4r1hw.css","precedence":"next"}]
+15:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0tgf_jh1zm4mr.css","precedence":"next"}]
+16:["$","script","script-0",{"src":"/_next/static/chunks/2e2prb7gt39os.js","async":true}]
+17:["$","$L2b",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@2c"}]}]
+1e:["$","meta","17",{"name":"twitter:title","content":"Инструкции о заработке | EarnAtlas"}]
+1f:["$","meta","18",{"name":"twitter:description","content":"Практические шаги: от выбора способа подработки до своего продукта."}]
+20:["$","meta","19",{"name":"twitter:image","content":"https://earnatlas.site/og-image.png"}]
+21:["$","link","20",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16 32x32 48x48 64x64 128x128 256x256"}]
+22:["$","link","21",{"rel":"icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}]
+23:["$","link","22",{"rel":"icon","href":"/favicon-192x192.png","type":"image/png","sizes":"192x192"}]
+24:["$","link","23",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}]
+25:["$","$L2d","24",{}]
+6:300
+2c:null
+28:true
+6:C
+27:0
+d:"$undefined"
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+26:"$undefined"
+18:"$undefined"
