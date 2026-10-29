@@ -1,8 +1,7 @@
 :HL["/_next/static/chunks/2314ptv9oo-2-.css","style"]
 :HC["/",""]
-:HL["/_next/static/chunks/0tgf_jh1zm4mr.css","style"]
+:HL["/_next/static/chunks/35l_3nn4aj7yp.css","style"]
 :HL["/favicon-96x96.png","image"]
-:HL["/_next/static/chunks/1yhdzmxn4r1hw.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"c","k":"bonusy-i-prizy","s":["blog","kak-vybiraem","o-proekte","zarabotok-v-internete-2027"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"b5zrureioUaiIXnNp1kUw","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"evXyScXfYRTUG2obBisyA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
