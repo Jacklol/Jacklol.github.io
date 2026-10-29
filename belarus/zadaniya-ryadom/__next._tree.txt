@@ -4,4 +4,4 @@
 :HL["/favicon-96x96.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"c","k":"belarus/zadaniya-ryadom","s":["blog","kak-vybiraem","o-proekte","zarabotok-v-internete-2027"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"evXyScXfYRTUG2obBisyA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"OZcLK9luSr09DXf8v3lSy","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
