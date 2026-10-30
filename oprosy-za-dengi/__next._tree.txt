@@ -4,4 +4,4 @@
 :HL["/favicon-96x96.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"c","k":"oprosy-za-dengi","s":["blog","kak-vybiraem","o-proekte","zarabotok-v-internete-2027"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"Spd6MIbNsVHCYeZo_G5F6","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"3GL7w1jAx3hdCwegJF1-v","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
