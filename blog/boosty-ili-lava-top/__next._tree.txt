@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/2314ptv9oo-2-.css","style"]
+:HC["/",""]
+:HL["/_next/static/chunks/0vp3c80n3se25.css","style"]
+:HL["/favicon-96x96.png","image"]
+:HL["/blog/images/creator-choice.webp","image",{"imageSrcSet":"/blog/images/creator-choice-600.webp 600w, /blog/images/creator-choice.webp 1200w","imageSizes":"(max-width: 600px) calc(100vw - 78px), (min-width: 1360px) 778px, 750px"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"boosty-ili-lava-top","s":["feed.xml","rubrika"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"blog","h":131168,"c":"$Q2"}]]
+0:{"b":"DQVxCXo1gAV9dDPrcX2v-","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
