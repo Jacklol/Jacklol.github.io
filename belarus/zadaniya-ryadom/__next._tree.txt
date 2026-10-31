@@ -1,7 +1,8 @@
 :HL["/_next/static/chunks/2314ptv9oo-2-.css","style"]
 :HC["/",""]
-:HL["/_next/static/chunks/2w2yrlr8cu6o5.css","style"]
+:HL["/_next/static/chunks/0vp3c80n3se25.css","style"]
+:HL["/_next/static/chunks/11i43uquednjw.css","style"]
 :HL["/favicon-96x96.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"c","k":"belarus/zadaniya-ryadom","s":["blog","kak-vybiraem","o-proekte","zarabotok-v-internete-2027"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"3GL7w1jAx3hdCwegJF1-v","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"y6zllYi5yEUykoSVQRpUO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
