@@ -4,4 +4,4 @@
 :HL["/_next/static/chunks/11i43uquednjw.css","style"]
 :HL["/favicon-96x96.png","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"a9CXlBhTx8_nV92kcVwRn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2d3tSUjX8HTtZXB5rkJxh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
