@@ -1,60 +1,65 @@
 1:"$Sreact.fragment"
-2:"/_next/static/chunks/0umf92h1sb77c.js"
-3:I[39756,["$2"],"default"]
-4:I[37457,["$2"],"default"]
-b:"/_next/static/chunks/1l4d1p9s__thq.js"
-c:I[88457,["$2","$b"],"AdRail"]
-20:"ViewportBoundary"
-21:I[97367,["$2"],"$20"]
-22:"MetadataBoundary"
-23:I[97367,["$2"],"$22"]
-24:"$Sreact.suspense"
-:HL["/_next/static/chunks/2314ptv9oo-2-.css","style"]
+2:"/_next/static/chunks/35ubvk2ivdjgs.js"
+3:I[79520,["$2"],""]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+c:"/_next/static/chunks/0m7717bd4y_bw.js"
+d:I[88457,["$2","$c"],"AdRail"]
+23:"ViewportBoundary"
+24:I[97367,["$2"],"$23"]
+25:"MetadataBoundary"
+26:I[97367,["$2"],"$25"]
+27:"$Sreact.suspense"
+:HL["/_next/static/chunks/0xdae5kp3wb4y.css","style"]
 :HL["/favicon-96x96.png","image"]
 :HL["/_next/static/chunks/0vp3c80n3se25.css","style"]
-6:X
-9:X
-9:C
-a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержанию"}],["$","header",null,{"className":"EmNI4q_header","children":[["$","a",null,{"className":"EmNI4q_brand","href":"/","children":[["$","img",null,{"src":"/favicon-96x96.png","width":34,"height":34,"alt":"","decoding":"async"}],"EarnAtlas"]}],["$","nav",null,{"aria-label":"Главное меню","children":[["$","a",null,{"href":"/","children":"Каталог заработка"}],["$","a",null,{"href":"/blog/","children":"Блог"}]]}]]}],["$","main",null,{"id":"main","className":"EmNI4q_main EmNI4q_withAside","children":[["$","nav",null,{"className":"EmNI4q_breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],[],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"О проекте EarnAtlas"}]]}],["$","article",null,{"className":"EmNI4q_content","children":[["$","header",null,{"className":"EmNI4q_articleIntro","children":[["$","h1",null,{"children":"О проекте EarnAtlas"}],["$","p",null,{"children":["EarnAtlas (Earn Atlas) — каталог способов заработка и онлайн-подработки. Наш адрес — ",["$","a",null,{"href":"https://earnatlas.site/","children":"earnatlas.site"}],". Мы собираем основные условия сервисов в одном месте, чтобы их было проще сравнивать до регистрации."]}]]}],["$","$Lc",null,{}],["$","div",null,{"className":"EmNI4q_articleBody","children":[["$","h2",null,{"children":"Что можно найти в каталоге"}],["$","p",null,{"children":["В подборках есть ",["$","a",null,{"href":"/oprosy-za-dengi/","children":"платные опросы"}],", ","$Ld",", ","$Le",", ","$Lf"," и площадки для продажи товаров. Форматы отличаются затратами времени, навыками и условиями получения вознаграждения."]}],"$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]]}]]}]],["$L1c","$L1d"],"$L1e"]}],"p":"$@1f","v":null,"s":"$6"}}]]
-7:[["children",{"s":"o-proekte","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2314ptv9oo-2-.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://earnatlas.site/#website\",\"name\":\"EarnAtlas\",\"alternateName\":[\"Earn Atlas\",\"earnatlas.site\"],\"url\":\"https://earnatlas.site/\",\"inLanguage\":\"ru\",\"description\":\"EarnAtlas — каталог способов заработка в интернете. Сравните платные опросы, приложения, задания и фриланс: условия, выплаты и ограничения по странам.\"}"}}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержанию"}],["$","header",null,{"className":"EmNI4q_header","children":[["$","a",null,{"className":"EmNI4q_brand","href":"/","children":[["$","img",null,{"src":"/favicon-96x96.png","width":34,"height":34,"alt":"","decoding":"async"}],"EarnAtlas"]}],["$","nav",null,{"aria-label":"Главное меню","children":[["$","a",null,{"href":"/","children":"Каталог заработка"}],["$","a",null,{"href":"/blog/","children":"Блог"}]]}]]}],["$","main",null,{"id":"main","className":"EmNI4q_main ","children":[["$","nav",null,{"className":"EmNI4q_breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],[],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Страница не найдена"}]]}],["$","article",null,{"className":"EmNI4q_content","children":[["$","header",null,{"className":"EmNI4q_articleIntro","children":[["$","h1",null,{"children":"Страница не найдена"}],"$undefined"]}],false,["$","div",null,{"className":"EmNI4q_articleBody","children":[["$","p",null,{"children":"Возможно, адрес изменился или подборка ещё не создана."}],["$","p",null,{"children":[["$","a",null,{"href":"/","children":"Открыть каталог EarnAtlas"}]," или посмотреть ",["$","a",null,{"href":"/oprosy-za-dengi/","children":"платные опросы"}],"."]}]]}]]}]]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0vp3c80n3se25.css","precedence":"next"}]]]}],["$","footer",null,{"className":"site-footer","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],["$","nav",null,{"aria-label":"Информация о сайте","children":[["$","a",null,{"href":"/blog/","children":"Блог"}],["$","a",null,{"href":"/o-proekte/","children":"О проекте"}],["$","a",null,{"href":"/zarabotok-v-internete-2027/","children":"Заработок в 2027 году"}],["$","a",null,{"href":"/kak-vybiraem/","children":"Методика и партнёрские ссылки"}],["$","a",null,{"href":"/sitemap.xml","children":"Карта сайта"}]]}]]}]]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L21",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L23",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$24",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"О проекте EarnAtlas — каталог способов заработка"}],["$","meta","1",{"name":"description","content":"Что такое EarnAtlas: каталог онлайн-подработки, платных опросов, приложений и фриланса с условиями, ограничениями и фильтром страны."}],["$","meta","2",{"name":"application-name","content":"EarnAtlas"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://earnatlas.site/o-proekte/"}],["$","meta","6",{"property":"og:title","content":"О проекте EarnAtlas — каталог способов заработка"}],["$","meta","7",{"property":"og:description","content":"Что такое EarnAtlas: каталог онлайн-подработки, платных опросов, приложений и фриланса с условиями, ограничениями и фильтром страны."}],["$","meta","8",{"property":"og:url","content":"https://earnatlas.site/o-proekte/"}],["$","meta","9",{"property":"og:site_name","content":"EarnAtlas"}],["$","meta","10",{"property":"og:locale","content":"ru_RU"}],["$","meta","11",{"property":"og:image","content":"https://earnatlas.site/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],"$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]}],null]}],null]}],"p":"$@30","v":null,"s":"$6"}},"a":"$@31","u":"$@32","b":"0Ze3TgnuSEM413kBRow6D"}
-33:I[97367,["$2"],"OutletBoundary"]
-35:I[27201,["$2"],"IconMark"]
-d:["$","a",null,{"href":"/prilozheniya-dlya-zarabotka/","children":"приложения для заработка"}]
-e:["$","a",null,{"href":"/melkie-zadaniya/","children":"мелкие задания"}]
-f:["$","a",null,{"href":"/frilans-birzhi/","children":"фриланс-биржи"}]
-10:["$","p",null,{"children":"Каталог помогает сравнивать варианты для свободного времени, в том числе подработку во время учёбы. Условия возраста, регистрации и выплат определяет сам сервис; подходящий формат нужно выбирать с учётом этих требований."}]
-11:["$","h2",null,{"children":"Как читать карточки"}]
-12:["$","p",null,{"children":"В карточках указаны виды работы, способы выплаты, ограничения и дата проверки условий. Регион «Беларусь» показывает только предложения с отдельно записанными условиями для этой страны. Общий каталог СНГ не означает, что каждый сервис доступен во всех странах."}]
-13:["$","p",null,{"children":"EarnAtlas не принимает задания и не выплачивает вознаграждения. Регистрация, работа и расчёты происходят на стороне выбранной площадки. Условия могут измениться после указанной даты — перед началом работы сверяйте их на сайте сервиса."}]
-14:["$","h2",null,{"children":"Как устроены рекомендации"}]
-15:["$","p",null,{"children":"Порядок карточек и звёзды — редакционная оценка каталога. Они не являются средним рейтингом пользовательских отзывов или обещанием дохода. Часть переходов — партнёрские ссылки с пометкой в карточке."}]
-16:["$","p",null,{"children":[["$","a",null,{"href":"/kak-vybiraem/","children":"Подробнее о методике, датах и партнёрских ссылках"}],"."]}]
-17:["$","h2",null,{"children":"Связаться с нами"}]
-18:["$","p",null,{"children":["Если вы заметили неточность, хотите предложить сервис или задать вопрос о проекте, напишите нам: ",["$","a",null,{"href":"mailto:localmindstudio@gmail.com","children":"localmindstudio@gmail.com"}],"."]}]
-19:["$","h2",null,{"children":"Как работает редакция"}]
-1a:["$","p",null,{"children":"Материалы готовит редакция EarnAtlas. Условия платформ сверяем по открытым официальным источникам, а в статьях ставим ссылки рядом с соответствующими фактами. Учебные примеры и рекомендации обозначаем отдельно. Дата проверки показывает, когда мы обращались к источнику."}]
-1b:["$","p",null,{"children":"Если условия изменились, сообщите нам адрес страницы и ссылку на актуальный источник. Это поможет проверить сведения и исправить материал."}]
-1c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0vp3c80n3se25.css","precedence":"next"}]
-1d:["$","script","script-0",{"src":"/_next/static/chunks/1l4d1p9s__thq.js","async":true}]
-1e:["$","$L33",null,{"children":["$","$24",null,{"name":"Next.MetadataOutlet","children":"$@34"}]}]
-25:["$","meta","14",{"property":"og:image:alt","content":"EarnAtlas — каталог способов заработка"}]
-26:["$","meta","15",{"property":"og:type","content":"website"}]
-27:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
-28:["$","meta","17",{"name":"twitter:title","content":"О проекте EarnAtlas — каталог способов заработка"}]
-29:["$","meta","18",{"name":"twitter:description","content":"Что такое EarnAtlas: каталог онлайн-подработки, платных опросов, приложений и фриланса с условиями, ограничениями и фильтром страны."}]
-2a:["$","meta","19",{"name":"twitter:image","content":"https://earnatlas.site/og-image.png"}]
-2b:["$","link","20",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16 32x32 48x48 64x64 128x128 256x256"}]
-2c:["$","link","21",{"rel":"icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}]
-2d:["$","link","22",{"rel":"icon","href":"/favicon-192x192.png","type":"image/png","sizes":"192x192"}]
-2e:["$","link","23",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}]
-2f:["$","$L35","24",{}]
-6:300
-34:null
-32:true
-6:C
-31:0
-8:"$undefined"
-5:"$undefined"
-30:"$undefined"
-1f:"$undefined"
+7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержанию"}],["$","header",null,{"className":"EmNI4q_header","children":[["$","a",null,{"className":"EmNI4q_brand","href":"/","children":[["$","img",null,{"src":"/favicon-96x96.png","width":34,"height":34,"alt":"","decoding":"async"}],"EarnAtlas"]}],["$","nav",null,{"aria-label":"Главное меню","children":[["$","a",null,{"href":"/","children":"Каталог заработка"}],["$","a",null,{"href":"/blog/","children":"Блог"}]]}]]}],["$","main",null,{"id":"main","className":"EmNI4q_main EmNI4q_withAside","children":[["$","nav",null,{"className":"EmNI4q_breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],[],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"О проекте EarnAtlas"}]]}],["$","article",null,{"className":"EmNI4q_content","children":[["$","header",null,{"className":"EmNI4q_articleIntro","children":[["$","h1",null,{"children":"О проекте EarnAtlas"}],["$","p",null,{"children":["EarnAtlas (Earn Atlas) — каталог способов заработка и онлайн-подработки. Наш адрес — ",["$","a",null,{"href":"https://earnatlas.site/","children":"earnatlas.site"}],". Мы собираем основные условия сервисов в одном месте, чтобы их было проще сравнивать до регистрации."]}]]}],["$","$Ld",null,{}],["$","div",null,{"className":"EmNI4q_articleBody","children":[["$","h2",null,{"children":"Что можно найти в каталоге"}],["$","p",null,{"children":["В подборках есть ","$Le",", ","$Lf",", ","$L10",", ","$L11"," и площадки для продажи товаров. Форматы отличаются затратами времени, навыками и условиями получения вознаграждения."]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]]}]]}]],["$L1f","$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$7"}}]]
+8:[["children",{"s":"o-proekte","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0xdae5kp3wb4y.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/35ubvk2ivdjgs.js","async":true}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://earnatlas.site/#website\",\"name\":\"EarnAtlas\",\"alternateName\":[\"Earn Atlas\",\"earnatlas.site\"],\"url\":\"https://earnatlas.site/\",\"inLanguage\":\"ru\",\"description\":\"EarnAtlas — каталог способов заработка в интернете. Сравните платные опросы, приложения, задания и фриланс: условия, выплаты и ограничения по странам.\"}"}}],["$","$L3",null,{"src":"/site-services.js","strategy":"afterInteractive"}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","a",null,{"className":"skip-link","href":"#main","children":"К содержанию"}],["$","header",null,{"className":"EmNI4q_header","children":[["$","a",null,{"className":"EmNI4q_brand","href":"/","children":[["$","img",null,{"src":"/favicon-96x96.png","width":34,"height":34,"alt":"","decoding":"async"}],"EarnAtlas"]}],["$","nav",null,{"aria-label":"Главное меню","children":[["$","a",null,{"href":"/","children":"Каталог заработка"}],["$","a",null,{"href":"/blog/","children":"Блог"}]]}]]}],["$","main",null,{"id":"main","className":"EmNI4q_main ","children":[["$","nav",null,{"className":"EmNI4q_breadcrumbs","aria-label":"Хлебные крошки","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],[],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"aria-current":"page","children":"Страница не найдена"}]]}],["$","article",null,{"className":"EmNI4q_content","children":[["$","header",null,{"className":"EmNI4q_articleIntro","children":[["$","h1",null,{"children":"Страница не найдена"}],"$undefined"]}],false,["$","div",null,{"className":"EmNI4q_articleBody","children":[["$","p",null,{"children":"Возможно, адрес изменился или подборка ещё не создана."}],["$","p",null,{"children":[["$","a",null,{"href":"/","children":"Открыть каталог EarnAtlas"}]," или посмотреть ",["$","a",null,{"href":"/oprosy-za-dengi/","children":"платные опросы"}],"."]}]]}]]}]]}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0vp3c80n3se25.css","precedence":"next"}]]]}],["$","footer",null,{"className":"site-footer","children":[["$","a",null,{"href":"/","children":"EarnAtlas"}],["$","nav",null,{"aria-label":"Информация о сайте","children":[["$","a",null,{"href":"/blog/","children":"Блог"}],["$","a",null,{"href":"/o-proekte/","children":"О проекте"}],["$","a",null,{"href":"/zarabotok-v-internete-2027/","children":"Заработок в 2027 году"}],["$","a",null,{"href":"/kak-vybiraem/","children":"Методика и партнёрские ссылки"}],["$","a",null,{"href":"/sitemap.xml","children":"Карта сайта"}]]}]]}]]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"О проекте EarnAtlas — каталог способов заработка"}],["$","meta","1",{"name":"description","content":"Что такое EarnAtlas: каталог онлайн-подработки, платных опросов, приложений и фриланса с условиями, ограничениями и фильтром страны."}],["$","meta","2",{"name":"application-name","content":"EarnAtlas"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-image-preview:large, max-snippet:-1"}],["$","link","5",{"rel":"canonical","href":"https://earnatlas.site/o-proekte/"}],["$","meta","6",{"property":"og:title","content":"О проекте EarnAtlas — каталог способов заработка"}],["$","meta","7",{"property":"og:description","content":"Что такое EarnAtlas: каталог онлайн-подработки, платных опросов, приложений и фриланса с условиями, ограничениями и фильтром страны."}],["$","meta","8",{"property":"og:url","content":"https://earnatlas.site/o-proekte/"}],["$","meta","9",{"property":"og:site_name","content":"EarnAtlas"}],["$","meta","10",{"property":"og:locale","content":"ru_RU"}],["$","meta","11",{"property":"og:image","content":"https://earnatlas.site/og-image.png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],"$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]}],null]}],null]}],"p":"$@34","v":null,"s":"$7"}},"a":"$@35","u":"$@36","b":"yzsA7MuoB1-A1eG75uDDI"}
+38:I[97367,["$2"],"OutletBoundary"]
+3a:I[27201,["$2"],"IconMark"]
+e:["$","a",null,{"href":"/oprosy-za-dengi/","children":"платные опросы"}]
+f:["$","a",null,{"href":"/prilozheniya-dlya-zarabotka/","children":"приложения для заработка"}]
+10:["$","a",null,{"href":"/melkie-zadaniya/","children":"мелкие задания"}]
+11:["$","a",null,{"href":"/frilans-birzhi/","children":"фриланс-биржи"}]
+12:["$","p",null,{"children":"Каталог помогает сравнивать варианты для свободного времени, в том числе подработку во время учёбы. Условия возраста, регистрации и выплат определяет сам сервис; подходящий формат нужно выбирать с учётом этих требований."}]
+13:["$","h2",null,{"children":"Как читать карточки"}]
+14:["$","p",null,{"children":"В карточках указаны виды работы, способы выплаты, ограничения и дата проверки условий. Регион «Беларусь» показывает только предложения с отдельно записанными условиями для этой страны. Общий каталог СНГ не означает, что каждый сервис доступен во всех странах."}]
+15:["$","p",null,{"children":"EarnAtlas не принимает задания и не выплачивает вознаграждения. Регистрация, работа и расчёты происходят на стороне выбранной площадки. Условия могут измениться после указанной даты — перед началом работы сверяйте их на сайте сервиса."}]
+16:["$","h2",null,{"children":"Как устроены рекомендации"}]
+17:["$","p",null,{"children":"Порядок карточек и звёзды — редакционная оценка каталога. Они не являются средним рейтингом пользовательских отзывов или обещанием дохода. Часть переходов — партнёрские ссылки с пометкой в карточке."}]
+18:["$","p",null,{"children":[["$","a",null,{"href":"/kak-vybiraem/","children":"Подробнее о методике, датах и партнёрских ссылках"}],"."]}]
+19:["$","h2",null,{"children":"Связаться с нами"}]
+1a:["$","p",null,{"children":["Если вы заметили неточность, хотите предложить сервис или задать вопрос о проекте, напишите нам: ",["$","a",null,{"href":"mailto:localmindstudio@gmail.com","children":"localmindstudio@gmail.com"}],"."]}]
+37:"Для формы нужен JavaScript. Можно написать на localmindstudio@gmail.com."
+1b:["$","form",null,{"data-site-contact":"true","action":"/api/v1/leads","method":"post","className":"contact-form","id":"contact","children":[["$","label",null,{"children":["Тема",["$","select",null,{"name":"kind","defaultValue":"suggestion","children":[["$","option",null,{"value":"suggestion","children":"Предложить сервис"}],["$","option",null,{"value":"correction","children":"Сообщить об ошибке"}],["$","option",null,{"value":"partnership","children":"Сотрудничество"}]]}]]}],["$","label",null,{"children":["Ваше имя",["$","input",null,{"name":"name","autoComplete":"name","required":true,"maxLength":120}]]}],["$","label",null,{"children":["Email для ответа",["$","input",null,{"name":"email","type":"email","autoComplete":"email","required":true,"maxLength":254}]]}],["$","label",null,{"children":["Сообщение",["$","textarea",null,{"name":"message","rows":5,"required":true,"maxLength":6000}]]}],["$","input",null,{"className":"contact-honeypot","name":"_gotcha","type":"text","tabIndex":-1,"autoComplete":"off","aria-hidden":"true"}],["$","p",null,{"className":"contact-hint","children":"Контакты и сообщение нужны, чтобы ответить на ваше обращение. Они доступны только владельцу сайта."}],["$","button",null,{"type":"submit","children":"Отправить обращение"}],["$","p",null,{"data-form-status":"true","role":"status","aria-live":"polite"}],["$","noscript",null,{"children":"Для формы нужен JavaScript. Можно написать на localmindstudio@gmail.com."}]]}]
+1c:["$","h2",null,{"children":"Как работает редакция"}]
+1d:["$","p",null,{"children":"Материалы готовит редакция EarnAtlas. Условия платформ сверяем по открытым официальным источникам, а в статьях ставим ссылки рядом с соответствующими фактами. Учебные примеры и рекомендации обозначаем отдельно. Дата проверки показывает, когда мы обращались к источнику."}]
+1e:["$","p",null,{"children":"Если условия изменились, сообщите нам адрес страницы и ссылку на актуальный источник. Это поможет проверить сведения и исправить материал."}]
+1f:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0vp3c80n3se25.css","precedence":"next"}]
+20:["$","script","script-0",{"src":"/_next/static/chunks/0m7717bd4y_bw.js","async":true}]
+21:["$","$L38",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
+28:["$","meta","13",{"property":"og:image:height","content":"630"}]
+29:["$","meta","14",{"property":"og:image:alt","content":"EarnAtlas — каталог способов заработка"}]
+2a:["$","meta","15",{"property":"og:type","content":"website"}]
+2b:["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}]
+2c:["$","meta","17",{"name":"twitter:title","content":"О проекте EarnAtlas — каталог способов заработка"}]
+2d:["$","meta","18",{"name":"twitter:description","content":"Что такое EarnAtlas: каталог онлайн-подработки, платных опросов, приложений и фриланса с условиями, ограничениями и фильтром страны."}]
+2e:["$","meta","19",{"name":"twitter:image","content":"https://earnatlas.site/og-image.png"}]
+2f:["$","link","20",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16 32x32 48x48 64x64 128x128 256x256"}]
+30:["$","link","21",{"rel":"icon","href":"/favicon-96x96.png","type":"image/png","sizes":"96x96"}]
+31:["$","link","22",{"rel":"icon","href":"/favicon-192x192.png","type":"image/png","sizes":"192x192"}]
+32:["$","link","23",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png","sizes":"180x180"}]
+33:["$","$L3a","24",{}]
+7:300
+39:null
+36:true
+7:C
+35:0
+9:"$undefined"
+6:"$undefined"
+34:"$undefined"
+22:"$undefined"
