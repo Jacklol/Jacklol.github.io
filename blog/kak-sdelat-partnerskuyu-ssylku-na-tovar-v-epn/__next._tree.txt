@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/0xdae5kp3wb4y.css","style"]
+:HC["/",""]
+:HL["/_next/static/chunks/3vst168294i8s.css","style"]
+:HL["/favicon-96x96.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"kak-sdelat-partnerskuyu-ssylku-na-tovar-v-epn","s":["feed.xml","rubrika"]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"blog","h":131168,"c":"$Q2"}]]
+0:{"b":"YrmAomzSTLPk2bvlE44Ml","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
